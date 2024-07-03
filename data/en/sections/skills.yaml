@@ -11,29 +11,24 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
+- name: Machine Learning / Deep Learning
   logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+  summary: "Experienced with most of the popular machine learning and deep learning frameworks in Python. Capable of training, testing, and deploying models."
+  url: ""
 
 - name: Go Development
   logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  summary: "Backend development with Go. Experienced with writing RESTful APIs"
   url: "https://golang.org/"
 
-- name: Cloud Computing
+- name: Python Development
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "Experienced in web development with Django, Flask, and FastAPI. Also, experienced in writing scripts for automation."
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  summary: "Write most of the programs as dockerized containers to make them portable. Experienced with Docker Compose."
   url: "https://www.docker.com/"
-
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
@@ -43,7 +38,3 @@ skills:
   logo: /images/sections/skills/git.png
   summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
   url: "https://git-scm.com/"
-
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."

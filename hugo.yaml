@@ -1,7 +1,7 @@
 baseURL: https://hugo-toha.github.io
 
 languageCode: bn
-title: "John's Blog"
+title: "Nary's Portfolio"
 
 # Use Hugo modules to add theme
 module:
@@ -68,7 +68,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/machichima/nary-portfolio.git
   # Default branch of your Git repo
   gitBranch: main
 
@@ -89,7 +89,7 @@ params:
 
     # Enable and configure blog posts
     blog:
-      enable: true
+      enable: false
       showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
