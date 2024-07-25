@@ -29,7 +29,7 @@ Tech stack used in the project:
 
 Below are two example APIs (auth and member) showing in Swagger UI:
 
-{{< img src="/images/sections/projects/swaggerUI.png" width="600" align="center" title="Swagger UI" >}}
+{{<img src="/images/sections/projects/swaggerUI.png" width="600" align="center" title="Swagger UI">}}
 
 ## Database Design
 
