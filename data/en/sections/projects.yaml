@@ -3,7 +3,7 @@ section:
   name: Projects
   id: projects
   enable: true
-  weight: 5
+  weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -36,7 +36,8 @@ projects:
   timeline: "Jun 2024 - Present"
   repo: https://github.com/machichima/image-wezterm-tmux.nvim
   #url: ""
-  summary: A small plugin for showing images in wezterm terminal
+  summary: |
+    A small plugin for showing images in wezterm terminal
   tags: ["hobby"]
 
 - name: Breast Cancer Treatment Response Prediction
@@ -55,3 +56,23 @@ projects:
   #url: ""
   summary: Developed a scalable Big Data pipeline for large-scale genetic sequence data (7 million features) using PySpark and MLlib on Databricks for Alzheimer's Disease prediction
   tags: ["academic", "Machine Learning", "Data Engineering"]
+
+- name: Room Booking Backend System
+  logo: /images/sections/projects/room.png
+  role: Developer
+  timeline: "Oct 2022 - Jan 2022"
+  # repo: https://github.com/machichima/socket-chatroom
+  url: "posts/room-booking-baskend/"
+  summary: This is a backend system for a room booking system. Using RESTful API to communicate with the frontend to perform CRUD operations for hotels, rooms, bookings, and ratings.
+  tags: ["academic", "backend", "python"]
+
+- name: Socket Chatroom
+  logo: /images/sections/projects/chat.png
+  role: Developer
+  timeline: "Dec 2021 - Jan 2022"
+  repo: https://github.com/machichima/socket-chatroom
+  # url: ""
+  summary: A simple program that enables client to chat with each other through a server, which broadcast the message to all clients with encoding. Client needs to enter correct code to decode the encoded message.
+  tags: ["academic", "backend", "python"]
+
+

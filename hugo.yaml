@@ -69,13 +69,13 @@ params:
   #   favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/machichima/nary-portfolio.git
+  # gitRepo: https://github.com/machichima/nary-portfolio.git
   # Default branch of your Git repo
   gitBranch: main
 
   # Configure the number of section title visible in the top navbar
   topNavbar:
-    maxVisibleSections: 5
+    maxVisibleSections: 6
 
   # Configure various features of this theme
   features:
@@ -91,15 +91,15 @@ params:
     # Enable and configure blog posts
     blog:
       enable: false
-      showAuthor: true # shows the author of post (defaults true)
+      showAuthor: false # shows the author of post (defaults true)
       # Share post on different social media
-      shareButtons:
-        facebook: true
-        twitter: true
-        linkedin: true
-        reddit: true
-        whatsapp: true
-        email: true
+      # shareButtons:
+      #   facebook: false
+        # twitter: true
+        # linkedin: true
+        # reddit: true
+        # whatsapp: true
+        # email: true
         # tumblr: true
         # pocket: true
         # diaspora: true
