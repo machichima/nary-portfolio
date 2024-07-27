@@ -29,14 +29,14 @@ Tech stack used in the project:
 
 Below are two example APIs (auth and member) showing in Swagger UI:
 
-{{<img src="/images/sections/projects/swaggerUI.png" width="600" align="center" title="Swagger UI">}}
+{{<img src="images/swaggerUI.png" align="center" title="Swagger UI">}}
 
 ## Database Design
 
 ER Diagram:
 
-![ER Diagram](/images/sections/projects/EER.png)
+![ER Diagram](images/EER.png)
 
 Functional Dependencies:
 
-![Functional Dependencies](/images/sections/projects/functional_dependencies.png)
+![Functional Dependencies](images/functional_dependencies.png)

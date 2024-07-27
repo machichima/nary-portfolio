@@ -62,7 +62,7 @@ projects:
   role: Developer
   timeline: "Oct 2022 - Jan 2022"
   # repo: https://github.com/machichima/socket-chatroom
-  url: "posts/room-booking-baskend/"
+  url: "posts/room-booking-backend/"
   summary: This is a backend system for a room booking system. Using RESTful API to communicate with the frontend to perform CRUD operations for hotels, rooms, bookings, and ratings.
   tags: ["academic", "backend", "python"]
 
