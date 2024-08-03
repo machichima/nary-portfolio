@@ -21,6 +21,7 @@ experiences:
     overview: 
   positions:
   - designation: AI Backend Engineer
+    url: "posts/genenet-ai-backend-engineer/"
     start: Jul 2023
     end: Dec 2023
     # don't provide end date if you are currently working there. It will be replaced by "Present"

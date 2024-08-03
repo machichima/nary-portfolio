@@ -40,11 +40,19 @@ projects:
     A small plugin for showing images in wezterm terminal
   tags: ["hobby"]
 
+- name: pCR rate prediction for breast cancer using Vision Transformer
+  logo: /images/sections/projects/python.svg
+  role: MSc Dissertation
+  timeline: "Mar 2025 - Sep 2024"
+  url: "posts/msc-project/"
+  summary: Use pre-trained Vision Transformer(ViT) for pCR rate prediction for breast cancer with MRI images, combined with extra information such as clinical data. 
+  tags: ["academic", "Machine Learning"]
+
 - name: Breast Cancer Treatment Response Prediction
   logo: /images/sections/projects/python.svg
   role: Team Lead
   timeline: "Sep 2023 - Dec 2023"
-  # url: ""
+  url: "posts/ml-breast-cancer/"
   summary: Developed machine learning models using Python with Scikit-learn, Pandas, and NumPy,  achieving a 30% improvement in disease treatment response prediction
   tags: ["academic", "Machine Learning"]
 
