@@ -8,6 +8,7 @@
     "devDependencies": {
       "@fontsource/mulish": "project",
       "@fortawesome/fontawesome-free": "project",
+      "@popperjs/core": "project",
       "autoprefixer": "project",
       "bootstrap": "project",
       "eslint": "project",
@@ -29,16 +30,17 @@
       "mark.js": "project",
       "mermaid": "project",
       "plyr": "project",
-      "popper.js": "project",
       "postcss": "project",
       "postcss-cli": "project"
     }
   },
+  "dependencies": {},
   "description": "A [Hugo](https://gohugo.io/) theme for a personal portfolio with minimalist design and responsiveness.",
   "devDependencies": {
     "@fontsource/mulish": "4.5.13",
     "@fortawesome/fontawesome-free": "^6.6.0",
-    "autoprefixer": "^10.4.21",
+    "@popperjs/core": "^2.11.8",
+    "autoprefixer": "^10.4.20",
     "bootstrap": "^5.3.3",
     "eslint": "^8.31.0",
     "eslint-config-prettier": "^8.6.0",
@@ -59,8 +61,8 @@
     "mark.js": "^8.11.1",
     "mermaid": "^11.5.0",
     "plyr": "^3.7.2",
-    "postcss": "^8.5.3",
-    "postcss-cli": "^11.0.1"
+    "postcss": "^8.4.41",
+    "postcss-cli": "^11.0.0"
   },
   "homepage": "https://github.com/hugo-toha/toha#readme",
   "license": "MIT",
@@ -75,8 +77,5 @@
     "lint": "eslint .",
     "lint:fix": "eslint --fix ."
   },
-  "version": "1.0.0",
-  "dependencies": {
-    "@popperjs/core": "^2.11.8"
-  }
+  "version": "1.0.0"
 }

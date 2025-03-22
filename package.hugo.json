@@ -40,9 +40,9 @@
     "ityped": "^1.0.3",
     "katex": "^0.16.11",
     "mark.js": "^8.11.1",
-    "mermaid": "^9.2.1",
+    "mermaid": "^11.5.0",
     "plyr": "^3.7.2",
-    "popper.js": "^1.16.1",
+    "@popperjs/core": "^2.11.8",
     "include-media": "^1.4.10",
     "feather-icons": "^4.29.1"
   }
