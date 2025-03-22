@@ -29,7 +29,7 @@
     <div class="positions">
     {{ range $index,$position:= .positions }}
         <div class="company-heading">
-            <h5 class="designation">{{ if $position.url }}<a href={{$position.url}} title="{{ $position.designation }}" rel="noopener">{{ $position.designation }}</a>{{ else }}{{ $position.designation }}{{ end }}</h5>
+            <h5 class="designation">{{ $position.designation }}</h5>
             <p class="text-muted">{{ $position.start }} - {{if $position.end }} {{ $position.end }} {{else}} {{ i18n "present" }} {{end}}</p>
         </div>
         <!-- Add the responsibilities handled at this position -->
