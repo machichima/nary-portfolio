@@ -12,6 +12,8 @@ section:
 buttons:
 - name: All
   filter: "all"
+- name: Open-Source
+  filter: "open-source"
 - name: Hobby
   filter: "hobby"
 - name: Backend
@@ -21,6 +23,24 @@ buttons:
 
 # your projects
 projects:
+- name: Contribution to Flyte
+  logo: /images/sections/projects/flyte.png
+  role: Committer
+  timeline: "Nov 2024 - Present"
+  repo: "https://github.com/search?q=is%3Apr+author%3Amachichima+org%3Aflyteorg&type=pullrequests" 
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: K8S Workflow Orchestration Platform For Data & ML Pipelines
+  tags: ["open-source"]
+
+- name: Contribution to Obstore
+  logo: /images/sections/projects/developmentseed.jpeg
+  role: Committer
+  timeline: "Jan 2025 - Present"
+  repo: "https://github.com/search?q=is%3Apr+author%3Amachichima+org%3Adevelopmentseed+&type=pullrequests" 
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Highest-throughput Python interface to S3, GCS & Azure Storage
+  tags: ["open-source"]
+
 - name: Version Controlling System in go
   logo: /images/sections/projects/golang-1.svg
   role: Developer

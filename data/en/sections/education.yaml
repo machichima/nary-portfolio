@@ -21,7 +21,7 @@ degrees:
     # darkLogo: /images/sections/education/tech_college.png
   grade: #(optional)
     scale: GPA
-    achieved: 87
+    achieved: 85
     outOf: 100 (distinction)
   customSections: #(optional)
     - name: Course Taken

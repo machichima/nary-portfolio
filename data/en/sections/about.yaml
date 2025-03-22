@@ -8,10 +8,10 @@ section:
   template: sections/about.html
 
 # your designation
-designation: MSc Data Science
+designation: Open Source Committer | Software Engineer
 # your company information
-company:
-  name: University of Nottingham
+# company:
+#   name: Flyte
   # url: ""
 
 # your resume. this file path should be relative to you "static" directory
@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'An ambitious and passionate MSc Data Science student from the University of Nottingham with experience in Python programming, machine learning, and back-end development. I am seeking a graduate data science opportunity to leverage my skills in Python and AI as well as my planning and problem-solving skills to develop and deploy cuttingedge platforms.'
+summary: 'An ambitious and passionate software engineer with a strong interest in open-source contributions, specializing in backend development and Kubernetes. Contributing to open-source project [Flyte](https://github.com/flyteorg) and [Obstore](https://github.com/developmentseed/obstore)'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -61,7 +61,7 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/_Nary_resume_sde_website.pdf"
+  url: "/files/Nary_sde_resume.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
